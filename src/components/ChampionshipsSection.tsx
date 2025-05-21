@@ -13,14 +13,14 @@ const championships: Championship[] = [
   {
     id: "kings",
     title: "Kings League Brazil",
-    description: "A FURIA sagrou-se campeã da primeira edição da Kings League Brazil com uma campanha dominante, sob a presidência de Neymar Jr. Em uma final eletrizante realizada em São Paulo, a equipe mostrou sua força e entrosamento, garantindo o troféu com jogadas criativas e intensidade do início ao fim. A conquista marcou um novo capítulo na história do futebol 7 nacional.",
+    description: "A FURIA sagrou-se campeã da primeira edição da Kings League Brazil com uma campanha dominante, sob a presidência de Neymar Jr e Cris Guedes. Em uma final eletrizante realizada em São Paulo, a equipe mostrou sua força e entrosamento, garantindo o troféu com jogadas criativas e intensidade do início ao fim. A conquista marcou um novo capítulo na história do futebol 7 nacional.",
     imageSrc: "kings.png",
     videoUrl: "https://www.youtube.com/embed/C6GbucItNUY"
   },
   {
     id: "rainbow-six",
     title: "Air Reload Rio – Rainbow Six Siege",
-    description: "No evento Air Reload Rio, sediado no Pavilhão 5 do Riocentro, a FURIA enfrentou a equipe CAG Osaka em uma final acirrada de Rainbow Six. A disputa aconteceu em melhor de 3 mapas, com vitórias dominantes em Border (7x4) e Clubhouse (7x5). A Pantera mostrou frieza e excelência tática com rotações cirúrgicas, domínio de pixel e atuações impecáveis do suporte e entry. O MVP ficou com Rappz, com clutchs decisivos e chamadas cirúrgicas. O troféu foi levantado sob chuva de papel picado e aplausos do público emocionado, colocando o Brasil no topo mais uma vez.",
+    description: "No evento Air Reload Rio, sediado no Pavilhão 5 do Riocentro, a FURIA enfrentou a equipe CAG Osaka em uma final acirrada de Rainbow Six. A Pantera mostrou frieza e excelência tática com rotações cirúrgicas, domínio de pixel e atuações impecáveis do suporte e entry. O troféu foi levantado sob chuva de papel picado e aplausos do público emocionado, colocando o Brasil no topo mais uma vez.",
     imageSrc: "r6.png",
     videoUrl: "https://www.youtube.com/embed/XinoyE7skBk"
   },
